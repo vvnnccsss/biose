@@ -1,0 +1,24 @@
+# BIOSE 🧠⚕️
+
+## Sobre o projeto
+BIOSE é um projeto voltado para organização, análise e desenvolvimento de conteúdos relacionados à saúde, antropologia e artes visuais.
+
+O objetivo é reunir materiais e ensaios que dissertem sobre a temática.
+
+---
+
+## Áreas abordadas
+- Saúde pública
+- Artes visuais 
+- Antropologia do corpo e da saúde
+
+--- 
+
+## Estrutura do projeto
+
+```text
+BIOSE/
+ ┣ 📂 Artes visuais 
+ ┣ 📂 Ensaios 
+ ┣ 📂 Pesquisas
+ ┗ README.md
